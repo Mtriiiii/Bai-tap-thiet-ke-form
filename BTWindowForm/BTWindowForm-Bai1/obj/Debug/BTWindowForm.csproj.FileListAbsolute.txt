@@ -1,0 +1,12 @@
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\bin\Debug\BTWindowForm.exe.config
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\bin\Debug\BTWindowForm.exe
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\bin\Debug\BTWindowForm.pdb
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.frmBai1.resources
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.frmChinh.resources
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.Properties.Resources.resources
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.exe
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.pdb
+C:\Users\PC602\source\repos\BTWindowForm\BTWindowForm\obj\Debug\BTWindowForm.frmBai2.resources
